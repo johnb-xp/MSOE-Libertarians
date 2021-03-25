@@ -9,7 +9,7 @@ President: John Bilkey
 <br>Vice President: Ben Tanneberger
 <br>Treasurer: Mitch Hendricks
 <br>Secretary: Alex Blackman
-<br>Staff Advisor:
+<br>Staff Advisor: Andrew Slombarski
 
 <h1>About the Organization:</h1>
 <hr>
